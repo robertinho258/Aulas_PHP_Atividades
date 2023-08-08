@@ -1,0 +1,19 @@
+1º Crie uma variável chamada $nome e atribua a ela o valor do seu nome. Em seguida, exiba uma mensagem de boas-vindas com o seu nome na tela.
+
+2º Crie duas variáveis, $numero1 e $numero2, e atribua a elas valores numéricos diferentes. Calcule a soma desses números e exiba o resultado.
+
+3º Crie uma variável chamada $idade e atribua a ela o valor da sua idade. Utilize uma estrutura condicional para exibir a mensagem "Você é maior de idade" se a idade for maior ou igual a 18, caso contrário, exiba a mensagem "Você é menor de idade".
+
+4º Crie um array chamado $frutas com nomes de algumas frutas. Utilize um loop foreach para percorrer o array e exibir cada fruta em uma linha separada.
+
+5º Crie uma função chamada calcularSoma que receba dois números como parâmetros e retorne a sua soma.
+
+6º Crie uma função chamada verificarParImpar que receba um número como parâmetro e retorne uma mensagem indicando se o número é par ou ímpar.
+
+7º Crie um array chamado $numeros com alguns números. Utilize um loop for para calcular a soma dos números e exibir o resultado.
+
+8º Crie uma função chamada calcularMedia que receba um array de números como parâmetro e retorne a média dos números.
+
+9º Crie um loop while que exiba os números de 1 a 10 na tela.
+
+10º Crie um programa que exiba os números pares de 0 a 20 utilizando um loop do...while.
